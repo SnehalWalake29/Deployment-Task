@@ -1,5 +1,5 @@
 # Deployment-Task
-This is Deployment task.
+This is Deployment Task.
 
 ## Deloyment in Flask
 
